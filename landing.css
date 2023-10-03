@@ -1,0 +1,134 @@
+
+li{
+    display: inline;
+    margin-right: 40px;
+
+  }
+
+  .buttom{
+    border: none;
+    color: black;
+    background-color: rgb(90, 193, 227);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    opacity: 0.6;
+  }
+
+  .heading2{
+    float: right;
+  }
+  .head2
+  {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15x;
+    text-align: center;
+  }
+
+
+.button{
+    border: none;
+    color: black;
+    background-color: rgb(90, 193, 227);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    opacity: 0.6;
+  }
+
+  .img1{
+border: none;
+margin: auto;
+border-radius: 5px;
+  }
+  #something{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+.box {
+        display: flex;
+        border-bottom: solid;
+}
+.h5{
+
+    font-size: 20px;
+    text-align: center;
+  }
+
+
+  #bigdiv{
+    display: flex;
+    margin-left: 10%;
+
+  }
+
+  .div1 {
+   border: solid;
+   margin: 10px;
+   height: 300px;
+   width: 100px;
+   border-radius: 10px;
+
+   text-align: center;
+   padding-left: 20%;
+  }
+  
+  .h6{
+
+    font-size: 20px;
+    text-align: center;
+  }
+.p1{
+    font-size: 18px;
+
+
+}
+.buttok{
+    border: none;
+    color: black;
+    background-color: rgb(90, 193, 227);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    opacity: 0.6;
+  }
+
+.footer{
+    display:list-item
+    .button{
+        border: none;
+        color: black;
+        background-color: rgb(90, 193, 227);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        opacity: 0.6;
+      }
+    
+
+}
+
+.vertical-menu a {
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+  }
